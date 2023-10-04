@@ -26,9 +26,13 @@ com.android.util.package
 
 /data/data/
 
-### Bash case
+### OhMyBash case
 
 __my_function
+
+## UPPER BUT WITH UNDERSCORE
+
+MY_VAR
 
 
 
